@@ -34,7 +34,7 @@ Dengan model ini, perusahaan asuransi dapat:
 | 0 | No | Nasabah **tidak** mengajukan klaim |
 | 1 | Yes | Nasabah **mengajukan** klaim |
 
->  Dataset sangat *imbalanced*: hanya sekitar **1.5%** (~677 dari 44.328 baris) nasabah yang mengajukan klaim.
+> ⚠️ Dataset sangat *imbalanced*: hanya sekitar **1.5%** (~677 dari 44.328 baris) nasabah yang mengajukan klaim.
 
 ---
 
